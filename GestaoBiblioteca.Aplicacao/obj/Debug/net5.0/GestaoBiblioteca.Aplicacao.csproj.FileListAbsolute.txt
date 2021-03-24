@@ -1,0 +1,5 @@
+C:\Users\krysi\source\repos\GestaoBiblioteca.Aplicacao\bin\Debug\net5.0\GestaoBiblioteca.Dominio.dll
+C:\Users\krysi\source\repos\GestaoBiblioteca.Aplicacao\obj\Debug\net5.0\GestaoBiblioteca.Aplicacao.csprojAssemblyReference.cache
+C:\Users\krysi\source\repos\GestaoBiblioteca.Aplicacao\obj\Debug\net5.0\GestaoBiblioteca.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krysi\source\repos\GestaoBiblioteca.Aplicacao\obj\Debug\net5.0\GestaoBiblioteca.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\krysi\source\repos\GestaoBiblioteca.Aplicacao\obj\Debug\net5.0\GestaoBiblioteca.Aplicacao.AssemblyInfo.cs
